@@ -1,4 +1,8 @@
-# Duksung Electronics
+# Duksung Electronics <admin.>
+
+<img src="https://github.com/DuksungElectronics/DuksungElectronics/assets/75514808/abdd5716-d83d-4597-a37c-1760dd4e1603.png" width="100">
+<img src="https://github.com/DuksungElectronics/DuksungElectronics/assets/75514808/4df940d1-ed35-485a-b764-190c4436353c.png" width="100">
+
 최저임금의 상승으로 인해 많은 자영업자들이 부담을 느끼고 있습니다.</br>
 이에따라 많은 무인매장들이 등장하고 있는데요, 하지만 선뜻 무인화로 시스템을 돌리기에는 도난 상황이 걱정이 되고</br> 또 이를 예방하기 위하여 여러 장비를 들이자니 드는 비용도 만만치 않습니다. </br>
 위의 문제사항을 인식하여 최소한의 자원으로 무인매장내의 도난상황을 감지하거나 방문자를 추적하는 등의 기능으로</br> 무인매장내의 도난상황을 예방할 수 있습니다.
