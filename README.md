@@ -11,7 +11,7 @@
 |문지영|박해인|이수진|
 |:---:|:---:|:---:|
 | <img src="https://github.com/femmefatalehaein/Chatbot_Project/assets/75514808/f7c1133c-f215-4d49-979b-182243ba1a5c.png" width="100">  | <img src="https://github.com/femmefatalehaein/Chatbot_Project/assets/75514808/21003d9d-b0ff-442d-b551-acbc49ac1287.png" width="100">|<img src="https://github.com/femmefatalehaein/Chatbot_Project/assets/75514808/7b141bdf-432e-4fef-9288-9dbfedd1fdf9.png" width="100">    |
-|[@Jiyoung Moon](https://github.com/moon0900) |[@femmefatalehaein](https://github.com/femmefatalehaein) |[@Lee-SooJin](https://github.com/Soojin-Lee-01) |
+|[@Jiyoung Moon](https://github.com/moon0900) |[@ParkHaeIn](https://github.com/femmefatalehaein) |[@Lee-SooJin](https://github.com/Soojin-Lee-01) |
 
 ### ⏰ 개발기간
 ` 2022.10 ` → ` 2023.06 `
