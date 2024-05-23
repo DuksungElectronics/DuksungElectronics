@@ -33,12 +33,6 @@
 **admin for admin ( 무인매장 관리자용 어플)**
 #### 1️⃣ 실시간 매장 내 재고확인 가능 (재고관리 용이)</br>
 #### 2️⃣ 도난의심상황 알림, 도난의심시간대 편집된 CCTV 영상 확인 가능 </br>
-#### 3️⃣ 매장출입자 확인 기능 </br>
-</br>
-<img src="https://github.com/DuksungElectronics/DuksungElectronics/assets/75514808/abdd5716-d83d-4597-a37c-1760dd4e1603.png" width="100">
-
-**admin for client ( 무인매장 손님용 어플 )**
-#### 1️⃣ 실시간 매장 내 재고확인 가능 (가지 않아도 재고정보 확인할 수 있음) </br>
-#### 2️⃣ 무인매장 고객은, 무인매장 입장 시 어플에서 생성되는 본인 고유의 큐알코드를 통하여 인증을 통해 입장해야한다. </br>
-
+#### 3️⃣지
+https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART003056788
  
