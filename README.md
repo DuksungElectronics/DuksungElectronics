@@ -33,6 +33,9 @@
 **admin for admin ( 무인매장 관리자용 어플)**
 #### 1️⃣ 실시간 매장 내 재고확인 가능 (재고관리 용이)</br>
 #### 2️⃣ 도난의심상황 알림, 도난의심시간대 편집된 CCTV 영상 확인 가능 </br>
-#### 3️⃣지
+#### 3️⃣ 간편 회원가입, 로그인 / 손님 출입기록 실시간 확인</br>
+
+### 📕 논문
+#### 재고 관리 및 도난 방지를 위한 영상분석 기반 무인 매장 관리 시스템 - 한국산업정보학회논문지
 https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART003056788
  
