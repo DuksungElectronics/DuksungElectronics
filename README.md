@@ -36,8 +36,8 @@
 #### 3️⃣ 간편 회원가입, 로그인 / 손님 출입기록 실시간 확인</br>
 
 ### 📕 논문
-#### 재고 관리 및 도난 방지를 위한 영상분석 기반 무인 매장 관리 시스템 - 한국산업정보학회논문지
+→ 재고 관리 및 도난 방지를 위한 영상분석 기반 무인 매장 관리 시스템 - 한국산업정보학회논문지
 https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART003056788
 ### 🙌 Result
-#### 덕성여자대학교 제 2회 캡스톤 디자인 경진대회 장려상 수상
+→ 덕성여자대학교 제 2회 캡스톤 디자인 경진대회 장려상 수상
  
